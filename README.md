@@ -1,0 +1,2 @@
+# ros2_nitros_v4l2_camera
+Hardware-accelerated version of ros2_v4l2_camera_node using ManagedNitrosPublisher
